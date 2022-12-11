@@ -1,4 +1,4 @@
-module github.com/jiacai2050/prosumer
+module github.com/zerogate/prosumer
 
 go 1.12
 
